@@ -1,0 +1,1248 @@
+{
+    "examples":[
+            {
+      "id": "hp-50",
+      "content": "Cho Chang plays seeker for Ravenclaw.",
+      "annotations": [
+        {"start": 0, "end": 9, "tag_name": "CHARACTER"},
+        {"start": 27, "end": 36, "tag_name": "HOUSE"}
+      ]
+    },
+    {
+      "id": "hp-51",
+      "content": "The Triwizard Tournament was held at Hogwarts.",
+      "annotations": [
+        {"start": 4, "end": 24, "tag_name": "SPORT"},
+        {"start": 37, "end": 45, "tag_name": "LOCATION"}
+      ]
+    },
+    {
+      "id": "hp-52",
+      "content": "Harry spotted a Cornich Pixie in the room.",
+      "annotations": [
+        {"start": 0, "end": 5, "tag_name": "CHARACTER"},
+        {"start": 16, "end": 29, "tag_name": "MAGICAL_CREATURE"}
+      ]
+    },
+    {
+      "id": "hp-53",
+      "content": "Gilderoy Lockhart wrote 'Magical Me'.",
+      "annotations": [
+        {"start": 0, "end": 17, "tag_name": "CHARACTER"},
+        {"start": 25, "end": 35, "tag_name": "BOOK"}
+      ]
+    },
+    {
+      "id": "hp-54",
+      "content": "Fred and George sell items at Weasleys' Wizard Wheezes.",
+      "annotations": [
+        {"start": 0, "end": 4, "tag_name": "CHARACTER"},
+        {"start": 9, "end": 15, "tag_name": "CHARACTER"},
+        {"start": 30, "end": 54, "tag_name": "LOCATION"}
+      ]
+    },
+    {
+      "id": "hp-55",
+      "content": "The Sword of Gryffindor appeared in the hat.",
+      "annotations": [
+        {"start": 4, "end": 23, "tag_name": "MAGICAL_ITEM"}
+      ]
+    },
+    {
+      "id": "hp-56",
+      "content": "Hagrid was sent to Azkaban briefly.",
+      "annotations": [
+        {"start": 0, "end": 6, "tag_name": "CHARACTER"},
+        {"start": 19, "end": 26, "tag_name": "LOCATION"}
+      ]
+    },
+    {
+      "id": "hp-57",
+      "content": "Harry practiced Wingardium Leviosa with Ron.",
+      "annotations": [
+        {"start": 0, "end": 5, "tag_name": "CHARACTER"},
+        {"start": 16, "end": 34, "tag_name": "SPELL"},
+        {"start": 40, "end": 43, "tag_name": "CHARACTER"}
+      ]
+    },
+    {
+      "id": "hp-58",
+      "content": "The Room of Requirement provided a bathroom.",
+      "annotations": [
+        {"start": 4, "end": 23, "tag_name": "LOCATION"}
+      ]
+    },
+    {
+      "id": "hp-59",
+      "content": "Minerva McGonagall teaches Transfiguration.",
+      "annotations": [
+        {"start": 0, "end": 18, "tag_name": "CHARACTER"},
+        {"start": 27, "end": 42, "tag_name": "SUBJECT"}
+      ]
+    },
+    {
+      "id": "hp-60",
+      "content": "Viktor Krum caught the Snitch.",
+      "annotations": [
+        {"start": 0, "end": 11, "tag_name": "CHARACTER"},
+        {"start": 23, "end": 29, "tag_name": "MAGICAL_ITEM"}
+      ]
+    },
+    {
+      "id": "hp-61",
+      "content": "Moaning Myrtle haunts the girls' bathroom.",
+      "annotations": [
+        {"start": 0, "end": 14, "tag_name": "CHARACTER"},
+        {"start": 26, "end": 41, "tag_name": "LOCATION"}
+      ]
+    },
+    {
+      "id": "hp-62",
+      "content": "Harry put on the Invisibility Cloak.",
+      "annotations": [
+        {"start": 0, "end": 5, "tag_name": "CHARACTER"},
+        {"start": 17, "end": 35, "tag_name": "MAGICAL_ITEM"}
+      ]
+    },
+    {
+      "id": "hp-63",
+      "content": "Snape made an Unbreakable Vow.",
+      "annotations": [
+        {"start": 0, "end": 5, "tag_name": "CHARACTER"},
+        {"start": 14, "end": 29, "tag_name": "SPELL"}
+      ]
+    },
+    {
+      "id": "hp-64",
+      "content": "The Dementors guard the prison.",
+      "annotations": [
+        {"start": 4, "end": 13, "tag_name": "MAGICAL_CREATURE"}
+      ]
+    },
+    {
+      "id": "hp-65",
+      "content": "Bill Weasley works at Gringotts Bank.",
+      "annotations": [
+        {"start": 0, "end": 12, "tag_name": "CHARACTER"},
+        {"start": 22, "end": 36, "tag_name": "LOCATION"}
+      ]
+    },
+    {
+      "id": "hp-66",
+      "content": "Percy Weasley was Head Boy of Gryffindor.",
+      "annotations": [
+        {"start": 0, "end": 13, "tag_name": "CHARACTER"},
+        {"start": 30, "end": 40, "tag_name": "HOUSE"}
+      ]
+    },
+    {
+      "id": "hp-67",
+      "content": "Lucius Malfoy gave the diary to Ginny.",
+      "annotations": [
+        {"start": 0, "end": 13, "tag_name": "CHARACTER"},
+        {"start": 23, "end": 28, "tag_name": "MAGICAL_ITEM"},
+        {"start": 32, "end": 37, "tag_name": "CHARACTER"}
+      ]
+    },
+    {
+      "id": "hp-68",
+      "content": "They studied History of Magic with Binns.",
+      "annotations": [
+        {"start": 13, "end": 29, "tag_name": "SUBJECT"},
+        {"start": 35, "end": 40, "tag_name": "CHARACTER"}
+      ]
+    },
+    {
+      "id": "hp-69",
+      "content": "Harry used Sectumsempra on Draco.",
+      "annotations": [
+        {"start": 0, "end": 5, "tag_name": "CHARACTER"},
+        {"start": 11, "end": 23, "tag_name": "SPELL"},
+        {"start": 27, "end": 32, "tag_name": "CHARACTER"}
+      ]
+    },
+    {
+      "id": "hp-70",
+      "content": "The Knight Bus picked up Harry.",
+      "annotations": [
+        {"start": 4, "end": 14, "tag_name": "MAGICAL_ITEM"},
+        {"start": 25, "end": 30, "tag_name": "CHARACTER"}
+      ]
+    },
+    {
+      "id": "hp-71",
+      "content": "Aragog the Acromantula lived in the forest.",
+      "annotations": [
+        {"start": 0, "end": 6, "tag_name": "CHARACTER"},
+        {"start": 11, "end": 22, "tag_name": "MAGICAL_CREATURE"}
+      ]
+    },
+    {
+      "id": "hp-72",
+      "content": "Hermione has a cat named Crookshanks.",
+      "annotations": [
+        {"start": 0, "end": 8, "tag_name": "CHARACTER"},
+        {"start": 25, "end": 36, "tag_name": "MAGICAL_CREATURE"}
+      ]
+    },
+    {
+      "id": "hp-73",
+      "content": "Neville killed Nagini with the sword.",
+      "annotations": [
+        {"start": 0, "end": 7, "tag_name": "CHARACTER"},
+        {"start": 15, "end": 21, "tag_name": "MAGICAL_CREATURE"}
+      ]
+    },
+    {
+      "id": "hp-74",
+      "content": "They met at the Hog's Head Inn.",
+      "annotations": [
+        {"start": 16, "end": 30, "tag_name": "LOCATION"}
+      ]
+    },
+    {
+      "id": "hp-75",
+      "content": "Harry cast Accio to summon his broom.",
+      "annotations": [
+        {"start": 0, "end": 5, "tag_name": "CHARACTER"},
+        {"start": 11, "end": 16, "tag_name": "SPELL"},
+        {"start": 31, "end": 36, "tag_name": "MAGICAL_ITEM"}
+      ]
+    },
+    {
+      "id": "hp-76",
+      "content": "The Quaffle was intercepted by Oliver Wood.",
+      "annotations": [
+        {"start": 4, "end": 11, "tag_name": "MAGICAL_ITEM"},
+        {"start": 31, "end": 42, "tag_name": "CHARACTER"}
+      ]
+    },
+    {
+      "id": "hp-77",
+      "content": "Professor Trelawney teaches Divination.",
+      "annotations": [
+        {"start": 0, "end": 19, "tag_name": "CHARACTER"},
+        {"start": 28, "end": 38, "tag_name": "SUBJECT"}
+      ]
+    },
+    {
+      "id": "hp-78",
+      "content": "The Portkey transported them to the graveyard.",
+      "annotations": [
+        {"start": 4, "end": 11, "tag_name": "MAGICAL_ITEM"},
+        {"start": 32, "end": 41, "tag_name": "LOCATION"}
+      ]
+    },
+    {
+      "id": "hp-79",
+      "content": "Rita Skeeter writes for the Daily Prophet.",
+      "annotations": [
+        {"start": 0, "end": 12, "tag_name": "CHARACTER"},
+        {"start": 28, "end": 41, "tag_name": "MAGICAL_ITEM"}
+      ]
+    },
+    {
+      "id": "hp-80",
+      "content": "Harry saw the Dark Mark in the sky.",
+      "annotations": [
+        {"start": 0, "end": 5, "tag_name": "CHARACTER"},
+        {"start": 14, "end": 23, "tag_name": "SPELL"}
+      ]
+    },
+    {
+  "id": "hp-test-001",
+  "content": "Harry Potter lived with the Dursleys at Privet Drive.",
+  "annotations": [
+    {"start": 0, "end": 12, "tag_name": "PERSON"},
+    {"start": 25, "end": 33, "tag_name": "PERSON"},
+    {"start": 37, "end": 49, "tag_name": "LOCATION"}
+  ]
+},
+{
+  "id": "hp-test-002",
+  "content": "Professor McGonagall found Harry on the porch that morning.",
+  "annotations": [
+    {"start": 10, "end": 21, "tag_name": "PERSON"},
+    {"start": 28, "end": 33, "tag_name": "PERSON"}
+  ]
+},
+{
+  "id": "hp-test-003",
+  "content": "Hagrid arrived on the flying motorbike with baby Harry.",
+  "annotations": [
+    {"start": 0, "end": 6, "tag_name": "PERSON"},
+    {"start": 49, "end": 54, "tag_name": "PERSON"}
+  ]
+}
+,
+{
+  "id": "hp-test-004",
+  "content": "Albus Dumbledore left the golden Deluminator on the doorstep.",
+  "annotations": [
+    {"start": 0, "end": 16, "tag_name": "PERSON"},
+    {"start": 27, "end": 38, "tag_name": "MAGIC_ITEM"}
+  ]
+}
+
+,
+{
+  "id": "hp-test-005",
+  "content": "The letter from Hogwarts changed Harry’s life forever.",
+  "annotations": [
+    {"start": 16, "end": 24, "tag_name": "ORGANIZATION"},
+    {"start": 35, "end": 40, "tag_name": "PERSON"}
+  ]
+}
+,
+{
+  "id": "hp-test-006",
+  "content": "A giant called Hagrid told Harry that he was a wizard.",
+  "annotations": [
+    {"start": 16, "end": 22, "tag_name": "PERSON"},
+    {"start": 28, "end": 33, "tag_name": "PERSON"}
+  ]
+}
+,
+{
+  "id": "hp-test-007",
+  "content": "Harry bought his wand from Ollivanders in Diagon Alley.",
+  "annotations": [
+    {"start": 0, "end": 5, "tag_name": "PERSON"},
+    {"start": 20, "end": 24, "tag_name": "MAGIC_ITEM"},
+    {"start": 31, "end": 41, "tag_name": "PERSON"},
+    {"start": 45, "end": 57, "tag_name": "LOCATION"}
+  ]
+}
+,
+{
+  "id": "hp-test-008",
+  "content": "The snowy owl Hedwig was Harry’s first birthday gift.",
+  "annotations": [
+    {"start": 14, "end": 20, "tag_name": "CREATURE"},
+    {"start": 26, "end": 31, "tag_name": "PERSON"}
+  ]
+}
+,
+{
+  "id": "hp-test-009",
+  "content": "Draco Malfoy sneered at Harry on the Hogwarts Express.",
+  "annotations": [
+    {"start": 0, "end": 12, "tag_name": "PERSON"},
+    {"start": 26, "end": 31, "tag_name": "PERSON"},
+    {"start": 39, "end": 56, "tag_name": "LOCATION"}
+  ]
+}
+,
+{
+  "id": "hp-test-009",
+  "content": "Draco Malfoy sneered at Harry on the Hogwarts Express.",
+  "annotations": [
+    {"start": 0, "end": 12, "tag_name": "PERSON"},
+    {"start": 26, "end": 31, "tag_name": "PERSON"},
+    {"start": 39, "end": 56, "tag_name": "LOCATION"}
+  ]
+}
+,
+{
+  "id": "hp-test-011",
+  "content": "Hermione Granger fixed Harry’s glasses with a quick spell.",
+  "annotations": [
+    {"start": 0, "end": 16, "tag_name": "PERSON"},
+    {"start": 23, "end": 28, "tag_name": "PERSON"}
+  ]
+}
+,
+{
+  "id": "hp-test-012",
+  "content": "The Sorting Hat placed Harry into Gryffindor House.",
+  "annotations": [
+    {"start": 4, "end": 15, "tag_name": "MAGIC_ITEM"},
+    {"start": 23, "end": 28, "tag_name": "PERSON"},
+    {"start": 35, "end": 45, "tag_name": "HOUSE"}
+  ]
+}
+,
+{
+  "id": "hp-test-013",
+  "content": "Severus Snape watched Harry walk into Potions class.",
+  "annotations": [
+    {"start": 0, "end": 13, "tag_name": "PERSON"},
+    {"start": 22, "end": 27, "tag_name": "PERSON"},
+    {"start": 38, "end": 45, "tag_name": "SUBJECT"}
+  ]
+}
+,
+{
+  "id": "hp-test-014",
+  "content": "The three-headed dog Fluffy guarded the trapdoor.",
+  "annotations": [
+    {"start": 21, "end": 27, "tag_name": "CREATURE"}
+  ]
+}
+,
+{
+  "id": "hp-test-015",
+  "content": "Nicholas Flamel was mentioned in one of Hermione’s books.",
+  "annotations": [
+    {"start": 0, "end": 15, "tag_name": "PERSON"},
+    {"start": 40, "end": 48, "tag_name": "PERSON"}
+  ]
+}
+,
+{
+  "id": "hp-test-016",
+  "content": "The Philosopher’s Stone was hidden inside Hogwarts.",
+  "annotations": [
+    {"start": 4, "end": 23, "tag_name": "MAGIC_ITEM"},
+    {"start": 38, "end": 46, "tag_name": "LOCATION"}
+  ]
+}
+,
+{
+  "id": "hp-test-016",
+  "content": "The Philosopher’s Stone was hidden inside Hogwarts.",
+  "annotations": [
+    {"start": 4, "end": 23, "tag_name": "MAGIC_ITEM"},
+    {"start": 38, "end": 46, "tag_name": "LOCATION"}
+  ]
+}
+,
+{
+  "id": "hp-test-017",
+  "content": "Voldemort fed on unicorn blood in the Forbidden Forest.",
+  "annotations": [
+    {"start": 0, "end": 9, "tag_name": "PERSON"},
+    {"start": 18, "end": 30, "tag_name": "CREATURE"},
+    {"start": 38, "end": 54, "tag_name": "LOCATION"}
+  ]
+}
+,
+{
+  "id": "hp-test-018",
+  "content": "Quirrell trembled whenever someone mentioned Voldemort.",
+  "annotations": [
+    {"start": 0, "end": 7, "tag_name": "PERSON"},
+    {"start": 45, "end": 54, "tag_name": "PERSON"}
+  ]
+}
+,
+{
+  "id": "hp-test-019",
+  "content": "Harry received the Nimbus Two Thousand during his first year.",
+  "annotations": [
+    {"start": 0, "end": 5, "tag_name": "PERSON"},
+    {"start": 20, "end": 39, "tag_name": "MAGIC_ITEM"}
+  ]
+}
+,
+{
+  "id": "hp-test-020",
+  "content": "Madam Hooch blew her whistle and the brooms rose into the air.",
+  "annotations": [
+    {"start": 0, "end": 10, "tag_name": "PERSON"},
+    {"start": 41, "end": 47, "tag_name": "MAGIC_ITEM"}
+  ]
+}
+,
+{
+  "id": "hp-test-021",
+  "content": "Neville Longbottom lost control of his broom during flying practice.",
+  "annotations": [
+    {"start": 0, "end": 16, "tag_name": "PERSON"},
+    {"start": 38, "end": 43, "tag_name": "MAGIC_ITEM"}
+  ]
+}
+,
+{
+  "id": "hp-test-022",
+  "content": "Fang trotted beside Hagrid deep inside the forest.",
+  "annotations": [
+    {"start": 0, "end": 4, "tag_name": "CREATURE"},
+    {"start": 22, "end": 28, "tag_name": "PERSON"}
+  ]
+}
+
+,
+{
+  "id": "hp-test-023",
+  "content": "Harry, Ron, and Hermione sneaked past Fluffy at midnight.",
+  "annotations": [
+    {"start": 0, "end": 5, "tag_name": "PERSON"},
+    {"start": 7, "end": 10, "tag_name": "PERSON"},
+    {"start": 16, "end": 24, "tag_name": "PERSON"},
+    {"start": 38, "end": 44, "tag_name": "CREATURE"}
+  ]
+}
+,
+
+{
+  "id": "hp-test-024",
+  "content": "The Mirror of Erised revealed Harry’s deepest desires.",
+  "annotations": [
+    {"start": 4, "end": 20, "tag_name": "MAGIC_ITEM"},
+    {"start": 31, "end": 36, "tag_name": "PERSON"}
+  ]
+}
+,
+{
+  "id": "hp-test-025",
+  "content": "The chessboard challenge was Ron Weasley's moment to shine.",
+  "annotations": [
+    {"start": 31, "end": 43, "tag_name": "PERSON"}
+  ]
+}
+,
+{
+  "id": "hp-test-026",
+  "content": "Flitwick taught the first-years how to pronounce Wingardium Leviosa.",
+  "annotations": [
+    {"start": 0, "end": 8, "tag_name": "PERSON"},
+    {"start": 46, "end": 65, "tag_name": "SPELL"}
+  ]
+}
+,
+{
+  "id": "hp-test-027",
+  "content": "The Goblins at Gringotts kept the vaults magically protected.",
+  "annotations": [
+    {"start": 4, "end": 11, "tag_name": "CREATURE"},
+    {"start": 15, "end": 24, "tag_name": "LOCATION"}
+  ]
+}
+,
+{
+  "id": "hp-test-028",
+  "content": "Harry spoke with the centaur Firenze in the forest clearing.",
+  "annotations": [
+    {"start": 0, "end": 5, "tag_name": "PERSON"},
+    {"start": 23, "end": 30, "tag_name": "CREATURE"}
+  ]
+}
+,
+{
+  "id": "hp-test-029",
+  "content": "Dumbledore awarded Gryffindor House one final set of points.",
+  "annotations": [
+    {"start": 0, "end": 10, "tag_name": "PERSON"},
+    {"start": 19, "end": 29, "tag_name": "HOUSE"}
+  ]
+}
+,
+{
+  "id": "hp-test-030",
+  "content": "The final battle between Harry and Quirrell happened underground.",
+  "annotations": [
+    {"start": 28, "end": 33, "tag_name": "PERSON"},
+    {"start": 38, "end": 46, "tag_name": "PERSON"}
+  ]
+},
+
+  {
+    "id": "test-100",
+    "content": "Firenze helped Harry escape the Dementors by riding him to safety.",
+    "annotations": [
+      {"start": 0, "end": 7, "tag_name": "CHARACTER"},
+      {"start": 13, "end": 18, "tag_name": "CHARACTER"},
+      {"start": 33, "end": 42, "tag_name": "MAGICAL_CREATURE"}
+    ]
+  },
+  {
+    "id": "test-101",
+    "content": "Winky the house-elf sobbed when she was dismissed from her post at Hogwarts.",
+    "annotations": [
+      {"start": 0, "end": 4, "tag_name": "CHARACTER"},
+      {"start": 9, "end": 19, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 64, "end": 72, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-102",
+    "content": "Hermione and Harry investigated the Room of Requirement for clues.",
+    "annotations": [
+      {"start": 0, "end": 8, "tag_name": "CHARACTER"},
+      {"start": 13, "end": 18, "tag_name": "CHARACTER"},
+      {"start": 35, "end": 54, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-103",
+    "content": "The Mooncalves danced under the full moon, discovered by Hagrid and students.",
+    "annotations": [
+      {"start": 4, "end": 13, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 52, "end": 58, "tag_name": "CHARACTER"}
+    ]
+  },
+  {
+    "id": "test-104",
+    "content": "Harry used the Impervius spell to keep the telescope lenses dry in Astronomy class.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "CHARACTER"},
+      {"start": 14, "end": 23, "tag_name": "SPELL"},
+      {"start": 69, "end": 77, "tag_name": "SUBJECT"}
+    ]
+  },
+  {
+    "id": "test-105",
+    "content": "Mundungus Fletcher stole artifacts from the Department of Mysteries.",
+    "annotations": [
+      {"start": 0, "end": 16, "tag_name": "CHARACTER"},
+      {"start": 32, "end": 49, "tag_name": "ARTIFACT"},
+      {"start": 59, "end": 77, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-106",
+    "content": "The Veela hair in Fleur's wand gave her an enchanting advantage during duels.",
+    "annotations": [
+      {"start": 4, "end": 13, "tag_name": "ARTIFACT_TYPE"},
+      {"start": 17, "end": 21, "tag_name": "CHARACTER"},
+      {"start": 25, "end": 29, "tag_name": "WAND"}
+    ]
+  },
+  {
+    "id": "test-107",
+    "content": "Harry avoided the Sectumsempra curse cast by Draco in the dueling club.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "CHARACTER"},
+      {"start": 18, "end": 30, "tag_name": "CURSE"},
+      {"start": 41, "end": 46, "tag_name": "CHARACTER"},
+      {"start": 54, "end": 66, "tag_name": "EVENT"}
+    ]
+  },
+  {
+    "id": "test-108",
+    "content": "Fawkes, Dumbledore's phoenix, healed Harry's wounds after the fight.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 7, "end": 17, "tag_name": "CHARACTER"},
+      {"start": 24, "end": 29, "tag_name": "CHARACTER"},
+      {"start": 46, "end": 51, "tag_name": "EVENT"}
+    ]
+  },
+  {
+    "id": "test-109",
+    "content": "The Triwizard Cup glowed ominously, signaling the start of the second task.",
+    "annotations": [
+      {"start": 4, "end": 19, "tag_name": "ARTIFACT_TYPE"},
+      {"start": 65, "end": 71, "tag_name": "EVENT"}
+    ]
+  },
+  {
+    "id": "test-110",
+    "content": "Dolores Umbridge implemented strict rules at Hogwarts, infuriating students.",
+    "annotations": [
+      {"start": 0, "end": 15, "tag_name": "CHARACTER"},
+      {"start": 49, "end": 57, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-111",
+    "content": "Harry learned Occlumency from Professor Snape to shield his mind.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "CHARACTER"},
+      {"start": 12, "end": 21, "tag_name": "MAGICAL_CONCEPT"},
+      {"start": 27, "end": 44, "tag_name": "CHARACTER"}
+    ]
+  },
+  {
+    "id": "test-112",
+    "content": "The Veela danced at the Quidditch World Cup, captivating the crowd.",
+    "annotations": [
+      {"start": 4, "end": 9, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 22, "end": 40, "tag_name": "EVENT"}
+    ]
+  },
+  {
+    "id": "test-113",
+    "content": "Ludo Bagman organized the dangerous third task of the Triwizard Tournament.",
+    "annotations": [
+      {"start": 0, "end": 9, "tag_name": "CHARACTER"},
+      {"start": 35, "end": 46, "tag_name": "EVENT"},
+      {"start": 54, "end": 81, "tag_name": "EVENT"}
+    ]
+  },
+  {
+    "id": "test-114",
+    "content": "Grawp, Hagrid's giant brother, caused chaos in the Forbidden Forest.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 7, "end": 13, "tag_name": "CHARACTER"},
+      {"start": 37, "end": 54, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-115",
+    "content": "Harry and Hermione found a hidden room filled with magical manuscripts.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "CHARACTER"},
+      {"start": 10, "end": 18, "tag_name": "CHARACTER"},
+      {"start": 29, "end": 41, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-116",
+    "content": "The basilisk's venom was fatal, but Fawkes' tears healed the wounds.",
+    "annotations": [
+      {"start": 4, "end": 12, "tag_name": "MAGICAL_BEAST"},
+      {"start": 39, "end": 44, "tag_name": "MAGICAL_CREATURE"}
+    ]
+  },
+  {
+    "id": "test-117",
+    "content": "Kreacher, the house-elf, loyally served the Black family for generations.",
+    "annotations": [
+      {"start": 0, "end": 7, "tag_name": "CHARACTER"},
+      {"start": 13, "end": 23, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 47, "end": 52, "tag_name": "CHARACTER"}
+    ]
+  },
+  {
+    "id": "test-118",
+    "content": "Harry discovered the Room of Hidden Things during his seventh year at Hogwarts.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "CHARACTER"},
+      {"start": 17, "end": 45, "tag_name": "LOCATION"},
+      {"start": 70, "end": 78, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-119",
+    "content": "Dolores Umbridge banned all student organizations, including Dumbledore's Army.",
+    "annotations": [
+      {"start": 0, "end": 15, "tag_name": "CHARACTER"},
+      {"start": 63, "end": 82, "tag_name": "ORGANIZATION"}
+    ]
+  },
+  {
+    "id": "test-120",
+    "content": "Grawp attempted to reach the castle walls, but Hagrid restrained him.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 51, "end": 57, "tag_name": "CHARACTER"}
+    ]
+  },
+  {
+    "id": "test-121",
+    "content": "Harry practiced the Reductor curse to break objects during dueling club.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "CHARACTER"},
+      {"start": 19, "end": 27, "tag_name": "CURSE"},
+      {"start": 63, "end": 75, "tag_name": "EVENT"}
+    ]
+  },
+  {
+    "id": "test-122",
+    "content": "Firenze explained the constellations to students in Astronomy class.",
+    "annotations": [
+      {"start": 0, "end": 7, "tag_name": "CHARACTER"},
+      {"start": 24, "end": 36, "tag_name": "SUBJECT"},
+      {"start": 44, "end": 52, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-123",
+    "content": "Harry navigated the Black Lake to rescue Ron and Hermione from merpeople.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "CHARACTER"},
+      {"start": 26, "end": 34, "tag_name": "CHARACTER"},
+      {"start": 39, "end": 47, "tag_name": "CHARACTER"},
+      {"start": 57, "end": 66, "tag_name": "MAGICAL_CREATURE"}
+    ]
+  },
+  {
+    "id": "test-124",
+    "content": "Luna Lovegood conversed with Thestrals to understand their mysterious behavior.",
+    "annotations": [
+      {"start": 0, "end": 12, "tag_name": "CHARACTER"},
+      {"start": 28, "end": 36, "tag_name": "VEHICLE"}
+    ]
+  }
+,
+
+
+
+
+  {
+    "id": "test-125",
+    "content": "During the chaos in the Department of Mysteries, Harry and Hermione encountered a trapped Thestral while searching for the prophecy.",
+    "annotations": [
+      {"start": 35, "end": 40, "tag_name": "CHARACTER"},
+      {"start": 45, "end": 53, "tag_name": "CHARACTER"},
+      {"start": 66, "end": 74, "tag_name": "VEHICLE"},
+      {"start": 17, "end": 35, "tag_name": "LOCATION"},
+      {"start": 95, "end": 104, "tag_name": "ARTIFACT_TYPE"}
+    ]
+  },
+  {
+    "id": "test-126",
+    "content": "Fawkes' healing tears saved Harry during the Battle of the Department, despite Nagini's sudden attack.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 24, "end": 29, "tag_name": "CHARACTER"},
+      {"start": 42, "end": 66, "tag_name": "EVENT"},
+      {"start": 73, "end": 79, "tag_name": "MAGICAL_CREATURE"}
+    ]
+  },
+  {
+    "id": "test-127",
+    "content": "Sirius Black instructed Harry and Lupin on how to approach the hidden Veela in the Forbidden Forest.",
+    "annotations": [
+      {"start": 0, "end": 11, "tag_name": "CHARACTER"},
+      {"start": 22, "end": 27, "tag_name": "CHARACTER"},
+      {"start": 32, "end": 37, "tag_name": "CHARACTER"},
+      {"start": 61, "end": 66, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 74, "end": 91, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-128",
+    "content": "While navigating the Black Lake, Harry encountered merpeople who tried to prevent him from reaching the Triwizard Cup.",
+    "annotations": [
+      {"start": 26, "end": 31, "tag_name": "CHARACTER"},
+      {"start": 43, "end": 53, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 96, "end": 111, "tag_name": "ARTIFACT_TYPE"}
+    ]
+  },
+  {
+    "id": "test-129",
+    "content": "Hermione deciphered cryptic runes on the Marauder's Map while sneaking past Filch unnoticed.",
+    "annotations": [
+      {"start": 0, "end": 8, "tag_name": "CHARACTER"},
+      {"start": 35, "end": 52, "tag_name": "ARTIFACT"},
+      {"start": 66, "end": 71, "tag_name": "CHARACTER"}
+    ]
+  },
+  {
+    "id": "test-130",
+    "content": "Grawp's massive size caused chaos as Hagrid tried to calm him near the Hogwarts towers.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 41, "end": 47, "tag_name": "CHARACTER"},
+      {"start": 60, "end": 68, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-131",
+    "content": "During the duel, Bellatrix Lestrange cast a Cruciatus Curse, forcing Harry to defend with the Protego spell.",
+    "annotations": [
+      {"start": 21, "end": 39, "tag_name": "CHARACTER"},
+      {"start": 49, "end": 61, "tag_name": "CURSE"},
+      {"start": 83, "end": 88, "tag_name": "CHARACTER"},
+      {"start": 98, "end": 104, "tag_name": "SPELL"}
+    ]
+  },
+  {
+    "id": "test-132",
+    "content": "The Basilisk, hidden in the Chamber of Secrets, petrified multiple students before being defeated by Harry and Fawkes.",
+    "annotations": [
+      {"start": 4, "end": 12, "tag_name": "MAGICAL_BEAST"},
+      {"start": 28, "end": 50, "tag_name": "LOCATION"},
+      {"start": 116, "end": 121, "tag_name": "CHARACTER"},
+      {"start": 126, "end": 131, "tag_name": "MAGICAL_CREATURE"}
+    ]
+  },
+  {
+    "id": "test-133",
+    "content": "Luna Lovegood observed the Nargles interfering with the students' belongings during Care of Magical Creatures class.",
+    "annotations": [
+      {"start": 0, "end": 12, "tag_name": "CHARACTER"},
+      {"start": 25, "end": 32, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 76, "end": 103, "tag_name": "SUBJECT"}
+    ]
+  },
+  {
+    "id": "test-134",
+    "content": "The Elder Wand, once belonging to Dumbledore, was sought after by Voldemort for ultimate power.",
+    "annotations": [
+      {"start": 4, "end": 15, "tag_name": "MAGIC_ITEM"},
+      {"start": 34, "end": 44, "tag_name": "CHARACTER"},
+      {"start": 62, "end": 71, "tag_name": "CHARACTER"}
+    ]
+  },
+  {
+    "id": "test-135",
+    "content": "Harry's Animagus transformation into a stag allowed him to escape detection in the Forbidden Forest.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "CHARACTER"},
+      {"start": 8, "end": 16, "tag_name": "MAGICAL_CONCEPT"},
+      {"start": 38, "end": 42, "tag_name": "MAGICAL_BEAST"},
+      {"start": 85, "end": 102, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-136",
+    "content": "Dobby sacrificed himself to save Harry and his friends from Malfoy Manor during the escape.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 28, "end": 33, "tag_name": "CHARACTER"},
+      {"start": 39, "end": 43, "tag_name": "RELATION"},
+      {"start": 54, "end": 66, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-137",
+    "content": "The Horcrux hidden in the cave tested Harry's courage and magical ability to the extreme.",
+    "annotations": [
+      {"start": 4, "end": 11, "tag_name": "ARTIFACT_TYPE"},
+      {"start": 24, "end": 28, "tag_name": "LOCATION"},
+      {"start": 35, "end": 40, "tag_name": "CHARACTER"}
+    ]
+  },
+  {
+    "id": "test-138",
+    "content": "Fred and George Weasley created a diversion using enchanted fireworks during the battle at Hogwarts.",
+    "annotations": [
+      {"start": 0, "end": 4, "tag_name": "CHARACTER"},
+      {"start": 9, "end": 21, "tag_name": "CHARACTER"},
+      {"start": 59, "end": 77, "tag_name": "EVENT"},
+      {"start": 85, "end": 93, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-139",
+    "content": "Viktor Krum dodged Bludgers during the Quidditch World Cup, showing exceptional skill.",
+    "annotations": [
+      {"start": 0, "end": 11, "tag_name": "CHARACTER"},
+      {"start": 18, "end": 26, "tag_name": "MAGICAL_CONCEPT"},
+      {"start": 36, "end": 54, "tag_name": "EVENT"}
+    ]
+  },
+  {
+    "id": "test-140",
+    "content": "Hagrid attempted to calm a rampaging Blast-Ended Skrewt near the edge of the Forbidden Forest.",
+    "annotations": [
+      {"start": 0, "end": 6, "tag_name": "CHARACTER"},
+      {"start": 36, "end": 53, "tag_name": "MAGICAL_BEAST"},
+      {"start": 71, "end": 88, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-141",
+    "content": "Dumbledore's Army practiced defensive spells in the Room of Requirement under Harry's supervision.",
+    "annotations": [
+      {"start": 0, "end": 17, "tag_name": "ORGANIZATION"},
+      {"start": 48, "end": 72, "tag_name": "LOCATION"},
+      {"start": 77, "end": 82, "tag_name": "CHARACTER"}
+    ]
+  },
+  {
+    "id": "test-142",
+    "content": "Bellatrix Lestrange and Fenrir Greyback attacked the trio near the Astronomy Tower during the skirmish.",
+    "annotations": [
+      {"start": 0, "end": 18, "tag_name": "CHARACTER"},
+      {"start": 23, "end": 39, "tag_name": "CHARACTER"},
+      {"start": 54, "end": 59, "tag_name": "CHARACTER"},
+      {"start": 69, "end": 86, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-143",
+    "content": "Harry, disguised by the Polyjuice Potion, infiltrated the Ministry of Magic unnoticed.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "CHARACTER"},
+      {"start": 24, "end": 39, "tag_name": "POTION"},
+      {"start": 53, "end": 71, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-144",
+    "content": "Luna Lovegood whispered about the Nargles' mischief to Harry while exploring the Forbidden Forest.",
+    "annotations": [
+      {"start": 0, "end": 12, "tag_name": "CHARACTER"},
+      {"start": 28, "end": 35, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 63, "end": 68, "tag_name": "CHARACTER"},
+      {"start": 85, "end": 102, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-145",
+    "content": "Voldemort's snake, Nagini, slithered silently while Harry tried to escape her venomous bite.",
+    "annotations": [
+      {"start": 0, "end": 9, "tag_name": "CHARACTER"},
+      {"start": 16, "end": 22, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 59, "end": 64, "tag_name": "CHARACTER"}
+    ]
+  },
+  {
+    "id": "test-146",
+    "content": "The Triwizard Tournament's second task required Harry to rescue hostages from a dragon's lair.",
+    "annotations": [
+      {"start": 4, "end": 27, "tag_name": "EVENT"},
+      {"start": 52, "end": 57, "tag_name": "CHARACTER"},
+      {"start": 69, "end": 75, "tag_name": "MAGICAL_BEAST"}
+    ]
+  },
+  {
+    "id": "test-147",
+    "content": "Hermione used the Time-Turner to attend multiple classes simultaneously, avoiding detection.",
+    "annotations": [
+      {"start": 0, "end": 8, "tag_name": "CHARACTER"},
+      {"start": 17, "end": 28, "tag_name": "ARTIFACT_TYPE"}
+    ]
+  },
+  {
+    "id": "test-148",
+    "content": "Grawp's attempts to climb the tower were thwarted by Hagrid and Harry's quick thinking.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 55, "end": 61, "tag_name": "CHARACTER"},
+      {"start": 66, "end": 71, "tag_name": "CHARACTER"}
+    ]
+  },
+  {
+    "id": "test-149",
+    "content": "Fred and George Weasley escaped the battle at Hogwarts using enchanted fireworks while aiding students.",
+    "annotations": [
+      {"start": 0, "end": 4, "tag_name": "CHARACTER"},
+      {"start": 9, "end": 21, "tag_name": "CHARACTER"},
+      {"start": 43, "end": 51, "tag_name": "LOCATION"}
+    ]
+  }
+,
+
+  {
+    "id": "test-150",
+    "content": "During the Battle of Hogwarts, Harry and Hermione dodged curses cast by Death Eaters while protecting students.",
+    "annotations": [
+      {"start": 17, "end": 32, "tag_name": "EVENT"},
+      {"start": 34, "end": 39, "tag_name": "CHARACTER"},
+      {"start": 44, "end": 52, "tag_name": "CHARACTER"},
+      {"start": 66, "end": 79, "tag_name": "CURSE"},
+      {"start": 87, "end": 100, "tag_name": "ORGANIZATION"},
+      {"start": 118, "end": 126, "tag_name": "CHARACTER"}
+    ]
+  },
+  {
+    "id": "test-151",
+    "content": "Grawp struggled to follow Hagrid's instructions in the Forbidden Forest while avoiding the Thestrals.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 26, "end": 32, "tag_name": "CHARACTER"},
+      {"start": 52, "end": 69, "tag_name": "LOCATION"},
+      {"start": 82, "end": 90, "tag_name": "VEHICLE"}
+    ]
+  },
+  {
+    "id": "test-152",
+    "content": "Harry used the Invisibility Cloak to sneak past Filch and Argus, who were patrolling the castle.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "CHARACTER"},
+      {"start": 14, "end": 32, "tag_name": "MAGIC_ITEM"},
+      {"start": 46, "end": 51, "tag_name": "CHARACTER"},
+      {"start": 56, "end": 61, "tag_name": "CHARACTER"},
+      {"start": 90, "end": 96, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-153",
+    "content": "Luna Lovegood noticed Nargles attempting to hide students' belongings in the Room of Requirement.",
+    "annotations": [
+      {"start": 0, "end": 12, "tag_name": "CHARACTER"},
+      {"start": 21, "end": 28, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 72, "end": 91, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-154",
+    "content": "Bellatrix Lestrange and Fenrir Greyback ambushed the trio near the Astronomy Tower during a skirmish.",
+    "annotations": [
+      {"start": 0, "end": 18, "tag_name": "CHARACTER"},
+      {"start": 23, "end": 39, "tag_name": "CHARACTER"},
+      {"start": 54, "end": 59, "tag_name": "CHARACTER"},
+      {"start": 69, "end": 86, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-155",
+    "content": "The Horcrux hidden in the cave challenged Harry's magical abilities as he tried to retrieve it safely.",
+    "annotations": [
+      {"start": 4, "end": 11, "tag_name": "ARTIFACT_TYPE"},
+      {"start": 24, "end": 28, "tag_name": "LOCATION"},
+      {"start": 39, "end": 44, "tag_name": "CHARACTER"},
+      {"start": 46, "end": 63, "tag_name": "MAGICAL_CONCEPT"}
+    ]
+  },
+  {
+    "id": "test-156",
+    "content": "Dobby freed himself using a sock while saving Harry and his friends from Malfoy Manor.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 28, "end": 33, "tag_name": "CHARACTER"},
+      {"start": 40, "end": 44, "tag_name": "RELATION"},
+      {"start": 54, "end": 66, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-157",
+    "content": "Fawkes healed Harry's wounds after the duel with the Basilisk, demonstrating his loyalty.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 12, "end": 17, "tag_name": "CHARACTER"},
+      {"start": 42, "end": 50, "tag_name": "MAGICAL_BEAST"}
+    ]
+  },
+  {
+    "id": "test-158",
+    "content": "Fred and George Weasley escaped the chaos using enchanted fireworks, distracting the Death Eaters.",
+    "annotations": [
+      {"start": 0, "end": 4, "tag_name": "CHARACTER"},
+      {"start": 9, "end": 21, "tag_name": "CHARACTER"},
+      {"start": 77, "end": 90, "tag_name": "ORGANIZATION"}
+    ]
+  },
+  {
+    "id": "test-159",
+    "content": "Harry attempted to break the enchanted cabinet using Reductor curse while dodging attacks from Death Eaters.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "CHARACTER"},
+      {"start": 47, "end": 55, "tag_name": "CURSE"},
+      {"start": 84, "end": 97, "tag_name": "ORGANIZATION"}
+    ]
+  },
+  {
+    "id": "test-160",
+    "content": "Grawp struggled to understand human customs while Hagrid tried to guide him through Hogwarts.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 47, "end": 53, "tag_name": "CHARACTER"},
+      {"start": 80, "end": 88, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-161",
+    "content": "Harry, Hermione, and Ron faced a dangerous Bludger during the Quidditch World Cup match.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "CHARACTER"},
+      {"start": 7, "end": 15, "tag_name": "CHARACTER"},
+      {"start": 21, "end": 24, "tag_name": "CHARACTER"},
+      {"start": 44, "end": 52, "tag_name": "MAGICAL_CONCEPT"},
+      {"start": 61, "end": 79, "tag_name": "EVENT"}
+    ]
+  },
+  {
+    "id": "test-162",
+    "content": "Bellatrix Lestrange cast Avada Kedavra at Harry, but he narrowly escaped using Protego.",
+    "annotations": [
+      {"start": 0, "end": 18, "tag_name": "CHARACTER"},
+      {"start": 23, "end": 36, "tag_name": "CURSE"},
+      {"start": 40, "end": 45, "tag_name": "CHARACTER"},
+      {"start": 78, "end": 84, "tag_name": "SPELL"}
+    ]
+  },
+  {
+    "id": "test-163",
+    "content": "The Triwizard Cup's glow guided Harry through the dangerous waters of the Black Lake.",
+    "annotations": [
+      {"start": 4, "end": 19, "tag_name": "ARTIFACT_TYPE"},
+      {"start": 32, "end": 37, "tag_name": "CHARACTER"},
+      {"start": 72, "end": 82, "tag_name": "LOCATION"}
+    ]
+  },
+  {
+    "id": "test-164",
+    "content": "Hermione, using the Time-Turner, attended two classes simultaneously without being noticed.",
+    "annotations": [
+      {"start": 0, "end": 8, "tag_name": "CHARACTER"},
+      {"start": 19, "end": 30, "tag_name": "ARTIFACT_TYPE"}
+    ]
+  },
+  {
+    "id": "test-165",
+    "content": "Voldemort's Nagini attacked unexpectedly while Harry and Dumbledore planned their strategy.",
+    "annotations": [
+      {"start": 0, "end": 9, "tag_name": "CHARACTER"},
+      {"start": 11, "end": 17, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 42, "end": 47, "tag_name": "CHARACTER"},
+      {"start": 52, "end": 61, "tag_name": "CHARACTER"}
+    ]
+  },
+  {
+    "id": "test-166",
+    "content": "Grawp attempted to cross the Forbidden Forest but was blocked by a squad of Death Eaters.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 25, "end": 42, "tag_name": "LOCATION"},
+      {"start": 76, "end": 89, "tag_name": "ORGANIZATION"}
+    ]
+  },
+  {
+    "id": "test-167",
+    "content": "Luna Lovegood whispered secrets about Nargles and other magical beings to Harry near the lake.",
+    "annotations": [
+      {"start": 0, "end": 12, "tag_name": "CHARACTER"},
+      {"start": 33, "end": 40, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 66, "end": 71, "tag_name": "CHARACTER"}
+    ]
+  },
+  {
+    "id": "test-168",
+    "content": "Bellatrix Lestrange's relentless attacks were countered by the combined spells of Dumbledore and Harry.",
+    "annotations": [
+      {"start": 0, "end": 18, "tag_name": "CHARACTER"},
+      {"start": 78, "end": 87, "tag_name": "CHARACTER"},
+      {"start": 92, "end": 97, "tag_name": "CHARACTER"}
+    ]
+  },
+  {
+    "id": "test-169",
+    "content": "The Basilisk's stare petrified students, but Fawkes intervened to heal the victims.",
+    "annotations": [
+      {"start": 4, "end": 12, "tag_name": "MAGICAL_BEAST"},
+      {"start": 47, "end": 52, "tag_name": "MAGICAL_CREATURE"}
+    ]
+  },
+  {
+    "id": "test-170",
+    "content": "Dobby, with his clever magic, freed the house from Malfoy’s control while keeping Harry safe.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "MAGICAL_CREATURE"},
+      {"start": 44, "end": 50, "tag_name": "CHARACTER"},
+      {"start": 55, "end": 60, "tag_name": "CHARACTER"}
+    ]
+  },
+  {
+    "id": "test-171",
+    "content": "Fred and George Weasley sabotaged the Death Eaters' plans while hiding students in safe locations.",
+    "annotations": [
+      {"start": 0, "end": 4, "tag_name": "CHARACTER"},
+      {"start": 9, "end": 21, "tag_name": "CHARACTER"},
+      {"start": 33, "end": 46, "tag_name": "ORGANIZATION"}
+    ]
+  },
+  {
+    "id": "test-172",
+    "content": "Harry used Protego to shield himself while dodging Avada Kedavra cast by Bellatrix Lestrange.",
+    "annotations": [
+      {"start": 0, "end": 5, "tag_name": "CHARACTER"},
+      {"start": 10, "end": 16, "tag_name": "SPELL"},
+      {"start": 50, "end": 63, "tag_name": "CURSE"},
+      {"start": 72, "end": 90, "tag_name": "CHARACTER"}
+    ]
+  },
+  {
+    "id": "test-173",
+    "content": "The Triwizard Tournament’s first task involved dragons, forcing Harry to rely on courage and skill.",
+    "annotations": [
+      {"start": 4, "end": 27, "tag_name": "EVENT"},
+      {"start": 47, "end": 52, "tag_name": "CHARACTER"},
+      {"start": 59, "end": 66, "tag_name": "MAGICAL_BEAST"}
+    ]
+  },
+  {
+    "id": "test-174",
+    "content": "Hermione, using the Marauder's Map, discovered the hidden passages while helping Harry evade Filch.",
+    "annotations": [
+      {"start": 0, "end": 8, "tag_name": "CHARACTER"},
+      {"start": 20, "end": 36, "tag_name": "ARTIFACT"},
+      {"start": 69, "end": 74, "tag_name": "CHARACTER"},
+      {"start": 79, "end": 84, "tag_name": "CHARACTER"}
+    ]
+  }
+
+
+
+
+
+
+    ]
+}
